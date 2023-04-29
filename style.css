@@ -1,0 +1,21 @@
+/* home webpage */
+
+/* header */
+@media (max-width: 767.98px) {
+     #top {
+    display: none;
+  } 
+}
+
+/* left column */
+@media (min-width: 1200px) {
+    #categories {
+      font-size: 20px;
+    }
+  }
+  
+  @media (max-width: 1199.98px) {
+    #categories {
+      font-size: 15px;
+    }
+  }
