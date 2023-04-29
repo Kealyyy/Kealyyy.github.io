@@ -1,0 +1,32 @@
+/* home webpage */
+
+/* header */
+@media (max-width:  992px) {
+     #top {
+    display: none;
+  } 
+}
+  
+  @media (max-width: 992px) {
+    body {
+      font-size: 15px;
+    }
+    #categories {
+      font-size: 15px;
+    }
+    #body1 {
+      display: none;
+    }
+  }
+
+  /* left column */
+@media (min-width: 992px) {
+  #categories {
+    font-size: 20px;
+  }
+  #body2 {
+    display: none;
+  }
+}
+  
+  
